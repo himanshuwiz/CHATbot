@@ -2,7 +2,12 @@ const sendBtn = document.getElementById("sendBtn");
 const messageBox = document.querySelector(".message-box");
 const messageBar = document.querySelector(".message-bar-input");
 const API_URL = "https://api.openai.com/v1/chat/completions";
-const API_KEY = //Enter your api key 
+let API_KEY = "";
+
+
+while (!API_KEY) {
+    API_KEY = prompt("Please enter your OpenAI API Key:");
+}
 
 sendBtn.onclick = function () {
     if (messageBar.value.length > 0) {
