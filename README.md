@@ -1,6 +1,5 @@
 
-
-### Chatbot
+# Chatbot Project using OpenAI API (Client-Side JavaScript)
 
 ## Usage
 
