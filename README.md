@@ -7,7 +7,7 @@ To interact with the chatbot, follow these simple steps:
 
   **Open the Chatbot**:
 
-   - Access the live chatbot: [Chatbot](https://himanshudhingra2003.github.io/Chatbot1/index.html){:target="_blank"}
+   - Access the live chatbot: [Chatbot](https://himanshudhingra2003.github.io/Chatbot1/index.html)
 
   **Start a Conversation**:
 
