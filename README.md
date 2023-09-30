@@ -7,7 +7,7 @@ To interact with the chatbot, follow these simple steps:
 
 1. **Open the Chatbot**:
 
-   - Access the live chatbot: [Chatbot Demo](https://yourusername.github.io/your-chatbot-repo/)
+   - Access the live chatbot: [Chatbot](https://yourusername.github.io/your-chatbot-repo/)
 
 2. **Start a Conversation**:
 
