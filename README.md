@@ -11,7 +11,8 @@ To interact with the chatbot, follow these simple steps:
 
   **Start a Conversation**:
 
-   - Once the chatbot interface loads, you'll see an input box.
+   - Once the chatbot interface loads, you'll see an alert box in which you have to enter your openAI key.
+   - After that you can chat with the bot using the input box
    - Type a message or a question to initiate a conversation.
 
   **Chat with the Bot**:
